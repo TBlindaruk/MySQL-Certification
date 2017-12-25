@@ -1,1 +1,2 @@
-- [3.2 Entering Queries](./MANUAL/entering-queries.md)
+- [3.2 Entering Queries](./MANUAL/3.2.entering-queries.md)
+- [3.3 Creating and Using a Database](./MANUAL/3.3.Creating-and-Using-a-Database.md)
