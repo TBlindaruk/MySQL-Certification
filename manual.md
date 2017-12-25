@@ -5,4 +5,4 @@
   - 3.3.4 Retrieving Information from a Table
     - [3.3.4.4 Sorting Rows](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.4-Retrieving-Information-from-a-Table/3.3.4.4-Sorting-Rows.md)
     - [3.3.4.7 Pattern Matching](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.4-Retrieving-Information-from-a-Table/3.3.4.7-Pattern-Matching.md)
-    
+    - [3.3.4.8 Counting Rows](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.4-Retrieving-Information-from-a-Table/3.3.4.8-Counting-Rows.md)
