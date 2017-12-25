@@ -1,0 +1,1 @@
+- [3.2 Entering Queries](./MANUAL/entering-queries.md)
