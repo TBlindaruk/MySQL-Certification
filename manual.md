@@ -2,3 +2,4 @@
 - [3.3 Creating and Using a Database](./MANUAL/3.3.Creating-and-Using-a-Database/README.md)
   - [3.3.2 Creating a Table](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.2-Creating-a-Table.md)
   - [3.3.3 Loading Data into a Table](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.3-Loading-Data-into-a-Table.md)
+  - [3.3.4.4 Sorting Rows](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.4.4-Sorting-Rows.md)
