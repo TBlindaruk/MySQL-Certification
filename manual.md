@@ -10,3 +10,4 @@
 - [3.4 Getting Information About Databases and Tables](./MANUAL/3.4-Getting-Information-About-Databases-and-Tables.md)
 - [3.5 Using mysql in Batch Mode](./MANUAL/3.5-Using-mysql-in-Batch-Mode/README.md)
 - [3.6 Examples of Common Queries](./MANUAL/3.6-Examples-of-Common-Queries/README.md)
+    - [3.6.2 The Row Holding the Maximum of a Certain Column](./MANUAL/3.6-Examples-of-Common-Queries/3.6.2-The-Row-Holding-the-Maximum-of-a-Certain-Column.md)
