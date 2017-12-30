@@ -8,3 +8,4 @@
     - [3.3.4.8 Counting Rows](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.4-Retrieving-Information-from-a-Table/3.3.4.8-Counting-Rows.md)
     - [3.3.4.9 Using More Than one Table](./MANUAL/3.3.Creating-and-Using-a-Database/3.3.4-Retrieving-Information-from-a-Table/3.3.4.9-Using-More-Than-one-Table.md)
 - [3.4 Getting Information About Databases and Tables](./MANUAL/3.4-Getting-Information-About-Databases-and-Tables.md)
+- [3.5 Using mysql in Batch Mode](./MANUAL/3.5-Using-mysql-in-Batch-Mode/README.md)
