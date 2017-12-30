@@ -16,3 +16,4 @@
         - [3.6.5 Using User-Defined Variables](MANUAL/3-Tutorial/3.6-Examples-of-Common-Queries/3.6.5-Using-User-Defined-Variables.md)
         - [3.6.6 Using Foreign Keys](MANUAL/3-Tutorial/3.6-Examples-of-Common-Queries/3.6.6-Using-Foreign-Keys.md)
         - [3.6.9 Using AUTO_INCREMENT](MANUAL/3-Tutorial/3.6-Examples-of-Common-Queries/3.6.9-Using-AUTO_INCREMENT.md)
+- [8.2.1.2 Range Optimization](./MANUAL/8.2.1.2-Range-Optimization.md)
