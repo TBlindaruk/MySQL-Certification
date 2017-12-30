@@ -13,3 +13,4 @@
     - [3.6.2 The Row Holding the Maximum of a Certain Column](./MANUAL/3.6-Examples-of-Common-Queries/3.6.2-The-Row-Holding-the-Maximum-of-a-Certain-Column.md)
     - [3.6.4 The Rows Holding the Group-wise Maximum of a Certain Column](./MANUAL/3.6-Examples-of-Common-Queries/3.6.4-The-Rows-Holding-the-Group-wise-Maximum-of-a-Certain-Column.md)
     - [3.6.5 Using User-Defined Variables](./MANUAL/3.6-Examples-of-Common-Queries/3.6.5-Using-User-Defined-Variables.md)
+    - [3.6.6 Using Foreign Keys](./MANUAL/3.6-Examples-of-Common-Queries/3.6.6-Using-Foreign-Keys.md)
